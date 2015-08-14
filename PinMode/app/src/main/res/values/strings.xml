@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PinMode</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Screen pinning text -->
+    <string name="screen_pinning_active_text">Screen pinning is active: you can\'t use device\'s button(s) or quit my app.</string>
+    <string name="screen_pinning_not_active_text">Screen pinning is not active</string>
+</resources>
